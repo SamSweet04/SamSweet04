@@ -1,7 +1,8 @@
 <center>
 
-## Hi there 👋! I'm interested in becoming a full-stack web developer and exploring the field of cybersecurity. 
-## Looking forward to connecting with like-minded individuals and learning from the vast community on GitHub.
+## Hi there 👋!
+   <p>I'm interested in becoming a full-stack web developer and exploring the field of cybersecurity. </p> <br>
+<p>Looking forward to connecting with like-minded individuals and learning from the vast community on GitHub.</p>
 
 </center>
 
