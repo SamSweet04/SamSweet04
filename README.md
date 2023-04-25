@@ -1,4 +1,8 @@
+<center>
+
 ### Hi there 👋! I'm a second-year student at KBTU, SITE in Kazakhstan with interest in becoming a full-stack web developer and exploring the field of cybersecurity. Looking forward to connecting with like-minded individuals and learning from the vast community on GitHub.
+
+</center>
 
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSweet04)](https://github.com/anuraghazra/github-readme-stats)
 
