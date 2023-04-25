@@ -7,6 +7,7 @@
 </center>
 
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSweet04)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamSweet04%2Fhit-counter&count_bg=%23D09CD5&title_bg=%236582DB&icon=ko-fi.svg&icon_color=%23E2D9D8&title=i+love+coffee+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### Socials:
