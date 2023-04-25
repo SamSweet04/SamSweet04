@@ -1,6 +1,7 @@
 <center>
 
-### Hi there 👋! I'm a second-year student at KBTU, SITE in Kazakhstan with interest in becoming a full-stack web developer and exploring the field of cybersecurity. Looking forward to connecting with like-minded individuals and learning from the vast community on GitHub.
+## Hi there 👋! I'm interested in becoming a full-stack web developer and exploring the field of cybersecurity. 
+## Looking forward to connecting with like-minded individuals and learning from the vast community on GitHub.
 
 </center>
 
