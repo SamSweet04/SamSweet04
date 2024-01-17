@@ -4,6 +4,7 @@
    <h3>I'm interested in becoming a full-stack web developer and exploring the field of cybersecurity. </h3> 
 <p>Looking forward to connecting with like-minded individuals and learning from the vast community on GitHub.</p>
 
+<p>Currently learning Django and Django Rest Framework!</p>
 </center>
 
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSweet04)](https://github.com/anuraghazra/github-readme-stats)
